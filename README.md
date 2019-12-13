@@ -25,4 +25,4 @@ After successfully pushing, github is now hosting your website online at the fol
 * When a url does not specify a file the browser tries to load a file named `index.html`. If your main page is named something else    you will have to add the file name to the end of the url (ie. `username.github.io/repo/main.html`), or rename your html file.
 * If you have pushed to `gh-pages` on one computer and need to make some changes on another, you must pull 
   `$ git pull origin gh-pages` then switch branches `$ git checkout gh-pages` (no `-b`, that creates a new branch).
-* Everyone in the entire world now has access to your website! Don't put any secrets or unprofessional on your page.
+* Everyone in the entire world now has access to your website! Don't put any secrets or anything unprofessional on your page.
